@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yeseva+One&display=swap');
+
+section{
+    margin: 0 auto;
+    color: #E5E5E5;
+}
+.top-banner{
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    margin-right: 2%;
+}
+.text{
+    margin-top: 140px;
+    position: absolute;
+}
+.title{
+    color: black;
+}
+.title-font{
+    font-size: 60px;
+    margin-bottom: 0;
+    margin-top: 10px;
+
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+}
+.mission-2022{
+    margin-top: 100px;
+    width: 1128px;
+    height: 494px;
+    top: 605px;
+    left: 156px;
+    position: absolute;
+}
+.mission-2022-header{
+    margin-top: 60px;
+    padding-right: 191px;
+    padding-left: 396px;
+    margin-bottom: 88px;
+}
+.area{
+    margin: 23px;
+}
+.mission{
+    position: absolute;
+    width: 360px;
+    height: 376px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+}
+.vission{
+    position: absolute;
+    width: 360px;
+    height: 376px;
+    left: 459px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 26px;
+}
+.goals{
+    position: absolute;
+    width: 360px;
+    height: 376px;
+    left: 924px;
+    background: #FFF4D6;
+    border-radius: 26px;
+}
+h3{
+    color: black;
+    font-size: 30px;
+}
+p{
+    color: black;
+}
